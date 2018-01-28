@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "480205780594",
+    "firebase_url": "https://domkom-2c65e.firebaseio.com",
+    "project_id": "domkom-2c65e",
+    "storage_bucket": "domkom-2c65e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480205780594:android:b4939ad4b772ddd0",
+        "android_client_info": {
+          "package_name": "com.kg.vista.domkom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480205780594-3hep38pdrtb1kvua4094bordne3nvine.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkxE9KalQJjqMXWQ4FF1DboZ0Pgj61Bhc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

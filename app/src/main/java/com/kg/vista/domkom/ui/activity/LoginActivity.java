@@ -5,9 +5,6 @@ import android.support.annotation.Nullable;
 
 import com.kg.vista.domkom.R;
 
-/**
- * Created by root on 1/26/18.
- */
 
 public class LoginActivity extends AbstractActivity {
 
